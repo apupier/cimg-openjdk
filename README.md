@@ -48,7 +48,7 @@ You can now use OpenJDK within the steps for this job.
 
 ## How This Image Works
 
-This image contains the Java programming language packaged as OpenJDK by [Adoptiumn](https://adoptium.net/).
+This image contains the Java programming language packaged as OpenJDK by [Adoptium](https://adoptium.net/).
 
 ### Variants
 
